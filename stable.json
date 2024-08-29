@@ -1,8 +1,8 @@
 {
   "magisk": {
-    "version": "v21",
+    "version": "v21.3",
     "versionCode": "21000",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v21.0/Magisk-v21.0.zip",
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v21.3/Magisk-v21.3.zip",
     "note": "https://topjohnwu.github.io/Magisk/releases/21000.md"
   },
   "stub": {
